@@ -23,8 +23,8 @@
 ## Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img alt="Email" height="32" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kamana-awasthi-794180308" target="_blank"><img alt="LinkedIn" height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="kamnaawasthi27@gmail.com" target="_blank"><img alt="Email" height="32" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white"></a>
   <a href="https://kamana-portfolio.example.com" target="_blank"><img alt="Portfolio" height="32" src="https://img.shields.io/badge/Portfolio-111?logo=vercel&logoColor=white"></a>
   <a href="https://www.behance.net/YOUR_BEHANCE" target="_blank"><img alt="Behance" height="32" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white"></a>
 </p>
